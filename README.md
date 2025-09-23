@@ -368,12 +368,12 @@ Below is the list of some of the most used Big O notations and their performance
 
 ## Project Backers
 
-> You may support this project via ❤️️ [GitHub](https://github.com/sponsors/trekhleb) or ❤️️ [Patreon](https://www.patreon.com/trekhleb).
+> You may support this project via ❤️️ [GitHub](https://github.com/sponsors/0Kiprotich) or ❤️️ [Patreon](https://www.patreon.com/0Kiprotich).
 
-[Folks who are backing this project](https://github.com/trekhleb/javascript-algorithms/blob/master/BACKERS.md) `∑ = 1`
+[Folks who are backing this project](https://github.com/0Kiprotich/javascript-algorithms/blob/master/BACKERS.md) `∑ = 1`
 
 ## Author
 
-[@trekhleb](https://trekhleb.dev)
+[@Kiprotich](https://Kiprotich.dev)
 
-A few more [projects](https://trekhleb.dev/projects/) and [articles](https://trekhleb.dev/blog/) about JavaScript and algorithms on [trekhleb.dev](https://trekhleb.dev)
+A few more [projects](https://kiprotich.dev/projects/) and [articles](https://kiprotich.dev/blog/) about JavaScript and algorithms on [kiprotich.dev](https://kiprotich.dev)
